@@ -1,0 +1,10 @@
+{
+  "name": "mern_Skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aniket",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.24.6"
+  }
+}
